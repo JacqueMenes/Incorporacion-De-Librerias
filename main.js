@@ -27,7 +27,7 @@ const prenda5 = new Prenda(5,"Remera manga corta", "Roja", 1000, "remeraRoja.png
 
 const prenda6 = new Prenda(6,"Saquito de hilo", "Rosa", 2000, "sacoRosa.png")
 
-const prenda7 = new Prenda(7,"Cadena con Dijes en forma de Corazon", "Dorado", 2800, "cadenaDije.png")
+const prenda7 = new Prenda(7,"Cadena con Dijes", "Dorado", 2800, "cadenaDije.png")
 
 const prenda8 = new Prenda(8,"Zapatos Carrie", "Azul", 15000, "zapatos.png")
 
